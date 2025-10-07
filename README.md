@@ -1,12 +1,12 @@
 # 👋 Bienvenue sur mon GitHub !
 
 ## 🧑‍💻 Qui suis-je ?
-Je m'appelle **Nathan Chevrollier**, étudiant en **BTS SIO option SLAM**, et passionné par le **développement web et logiciel**. Actuellement en recherche d'une **alternance en développement** pour intégrer un **Bachelor Développement Web** à partir de septembre 2025, je partage ici les projets et travaux réalisés durant mes deux années de BTS.
+Je m'appelle **Nathan Chevrollier**, étudiant en **B3 **(bachelor développement Web), et passionné par le **développement web et logiciel**. Actuellement Alternant Chez **TheWatchDog** je partage ici les projets et travaux réalisés depuis ma première année de bts que ce soit des projets perso ou des projet de cours.
 
 ## 🚀 Compétences techniques
 - **Langages** : Python, PHP, JavaScript, HTML/CSS, C++
 - **Frameworks & Librairies** : React.js, Laravel
-- **Bases de données** : MySQL
+- **Bases de données** : MySQL, MongoDB
 - **Autres** : Algorithmie, Programmation orientée objet, Développement d’applications web et desktop
 
 ## 📂 Projets et réalisations
