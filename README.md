@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 Qui suis-je ?
 
-Je m'appelle **Nathan Chevrollier**, **Développeur Junior** passionné par l'architecture logicielle. Actuellement en poste en tant qu'alternant chez **TheWatchDog**, j'interviens sur l'ensemble du cycle de développement d'une solution de pilotage énergétique.
+Je m'appelle **Nathan Chevrollier**, **Développeur Junior** . Actuellement en poste en tant qu'alternant chez **TheWatchDog**, j'interviens sur l'ensemble du cycle de développement d'une solution de pilotage énergétique.
 
 Diplômé d'un **BTS SIO SLAM** et en cours d'obtention du titre de **Concepteur Développeur d'Applications (CDA)**, je partage ici mes projets académiques, personnels et mes expérimentations techniques.
 
@@ -24,7 +24,7 @@ Mon expertise se concentre principalement sur l'écosystème **Node.js** et le d
 
 ## 🎯 Objectifs & Recherche
 
-Passionné par la structuration du code et l'optimisation, mon prochain défi est d'intégrer un **Master spécialisé en Backend**. Je recherche actuellement une **alternance de deux ans** (secteurs Angers, Nantes ou Challans) pour la rentrée prochaine.
+Passionné par la structuration du code et l'optimisation, mon prochain défi est d'intégrer un **Master spécialisé en Backend**. Je recherche actuellement une **alternance de deux ans** (secteur Nantes ou Challans) pour la rentrée prochaine.
 
 ## 📩 Me contacter
 
