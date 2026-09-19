@@ -32,7 +32,7 @@ N'hésitez pas à me solliciter pour discuter d'opportunités en Backend ou de p
 
   * 📧 **Email** : [nathan.chevrollier17pro@gmail.com](mailto:nathan.chevrollier17pro@gmail.com)
   * 🔗 **LinkedIn** : [Nathan Chevrollier](https://www.google.com/search?q=https://www.linkedin.com/in/Nathan_Chevrollier)
-  * <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/b74f7616-6276-4fbe-b4da-357624c10845" /> **[Mon Site](https://chevrolliernathan.fr)**
+  * <img width="12" height="12" alt="image" src="https://github.com/user-attachments/assets/b74f7616-6276-4fbe-b4da-357624c10845" /> **[Mon Site](https://chevrolliernathan.fr)**
 
 
 Merci de votre visite \! 🚀
